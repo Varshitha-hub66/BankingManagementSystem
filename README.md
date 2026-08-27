@@ -302,19 +302,11 @@ implemented:
 
 ![output](output.jpeg)
 
-## 🎥 Project Demo
-
-A demo walkthrough can be added to the repository as:
-
-``` text
-BankingManagementSystem_Demo.mp4
-```
-
 ## 👩‍💻 Developer
 
 **R Varshitha**
 
-B.Tech -- Computer Science Engineering
+B.Tech -- Computer Science and Engineering
 
 ## 📄 License
 
