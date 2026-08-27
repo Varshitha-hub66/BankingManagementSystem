@@ -298,26 +298,9 @@ implemented:
 -   Downloadable transaction statements
 -   Cloud deployment
 
-## 📸 Screenshots
+## 📸 Output
 
-Add application screenshots to a `screenshots/` folder:
-
-``` text
-screenshots/
-├── home.png
-├── registration.png
-├── login.png
-├── dashboard.png
-├── deposit.png
-├── transfer.png
-└── admin-dashboard.png
-```
-
-Then add them to this README using Markdown, for example:
-
-``` markdown
-![Home Page](screenshots/home.png)
-```
+![output](output.jpeg)
 
 ## 🎥 Project Demo
 
